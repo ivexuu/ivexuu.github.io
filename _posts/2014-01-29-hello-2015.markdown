@@ -13,7 +13,7 @@ tags:
 
 > “Yeah It's on. ”
 
-
+$$\phi = 1$$
 Hux 的 Blog 就这么开通了。
 
 [跳过废话，直接看技术实现 ](#build) 
