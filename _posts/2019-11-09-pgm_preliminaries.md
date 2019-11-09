@@ -23,9 +23,9 @@ tags:
 
 **<u>Conditional Independence</u>** for an event $C$, for **all** $x \in Val(X), y \in Val(Y),\ z \in Val(Z)$ denoted $P \vDash (X \perp Y|Z)$, $P(X=x|Y=y,Z=z) = P(X=x|Z=z)$, $Z$ is said to be **observed**. We also have $P(X, Y|Z) = P(X|Z)P(Y|Z)$
 
-- Decomposition: $\large (X \perp Y , W | Z) \Rightarrow (X \perp Y | Z)$
-- Weak Union: $\large (X \perp Y,W|Z) \Rightarrow (X \perp Y| W, Z)$
-- Contraction: $\large (X \perp W|Z, Y)\ \&\ (X \perp Y|Z) \Rightarrow (X \perp W,Y|Z)$
+* Decomposition: $\large (X \perp Y , W | Z) \Rightarrow (X \perp Y | Z)$
+* Weak Union: $\large (X \perp Y,W|Z) \Rightarrow (X \perp Y| W, Z)$
+* Contraction: $\large (X \perp W|Z, Y)\ \&\ (X \perp Y|Z) \Rightarrow (X \perp W,Y|Z)$
 
 ## Graph(simplified)
 
