@@ -1,3 +1,16 @@
+---
+layout:     post
+title:      "PGM Preliminaries"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2019-11-09 23:13:013
+author:     "Ive Xu"
+header-img: "img/home-bg-art.jpg"
+catalog: true
+tags:
+    - pgm
+    - Meta
+---
+
 # PGM Preliminaries
 
 ## Probability
