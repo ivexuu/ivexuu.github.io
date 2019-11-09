@@ -37,7 +37,7 @@ tags:
 
 **<u>Upward closure</u>**: a subset of nodes $X \in \mathcal{X}$ is upwardly closed in $\mathcal{K}$ if, for any $X \in \mathcal{X}$ , $Boundary_X \subset X$. The upward closure of $X$ is the *minimal upwardly closed subset* $Y$ that contains X.
 
-<img src="/image/post/image-20191027163342019.png" alt="image-20191027163342019" style="zoom:33%;" />
+<img src="/img/post/image-20191027163342019.png" alt="image-20191027163342019" style="zoom:33%;" />
 
 **<u>Path</u>** $X_i \rightarrow X_{i+1}\ or\ X_i-X_{i+1}$ , all nodes in a path are distinct
 
@@ -45,5 +45,5 @@ tags:
 
 **<u>Chordal Graph</u>** for every loop, there is an edge between $X_i, X_j$ for every *two non-cosecutive* nodes
 
-<img src="/image/post/image-20191027170503828.png" alt="image-20191027170503828" style="zoom:25%;" />
+<img src="/img/post/image-20191027170503828.png" alt="image-20191027170503828" style="zoom:25%;" />
 
