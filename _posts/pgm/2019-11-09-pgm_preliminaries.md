@@ -15,7 +15,7 @@ tags:
 
 ## Probability
 
-**<u>Bayes Rule</u>** : $\large P(A \vert B) = {P(B \vert A)P(A) \over P(B)}$
+**<u>Bayes Rule</u>** : $P(A \vert B) = {P(B \vert A)P(A) \over P(B)}$
 
 **<u>Chain Rule</u>**: $P(X_1, ..., X_k) = P(X_1)P(X_2 \vert X_1)...P(X_k \vert X_1, ..., X_{k-1})$
 
@@ -23,9 +23,9 @@ tags:
 
 **<u>Conditional Independence</u>** for an event $C$, for **all** $x \in Val(X), y \in Val(Y),\ z \in Val(Z)$ denoted $P \vDash (X \perp Y \vert Z)$, $P(X=x \vert Y=y,Z=z) = P(X=x \vert Z=z)$, $Z$ is said to be **observed**. We also have $P(X, Y \vert Z) = P(X \vert Z)P(Y \vert Z)$
 
-* Decomposition: $\large (X \perp Y , W  \vert  Z) \Rightarrow (X \perp Y  \vert  Z)$
-* Weak Union: $\large (X \perp Y,W \vert Z) \Rightarrow (X \perp Y \vert  W, Z)$
-* Contraction: $\large (X \perp W \vert Z, Y)\ \&\ (X \perp Y \vert Z) \Rightarrow (X \perp W,Y \vert Z)$
+* Decomposition: $(X \perp Y , W  \vert  Z) \Rightarrow (X \perp Y  \vert  Z)$
+* Weak Union: $(X \perp Y,W \vert Z) \Rightarrow (X \perp Y \vert  W, Z)$
+* Contraction: $(X \perp W \vert Z, Y)\ \&\ (X \perp Y \vert Z) \Rightarrow (X \perp W,Y \vert Z)$
 
 ## Graph(simplified)
 
