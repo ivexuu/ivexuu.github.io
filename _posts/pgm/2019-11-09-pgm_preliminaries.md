@@ -1,14 +1,15 @@
 ---
 layout:     post
-title:      "PGM Preliminaries"
-subtitle:   " \"Hello World, Hello Blog\""
+title:      "Probabilistic Graphical Model"
+subtitle:   " PGM Preliminaries"
 date:       2019-11-09 23:13:013
 author:     "Ive Xu"
 header-img: "img/home-bg-art.jpg"
 catalog: true
 tags:
     - pgm
-    - Meta
+    - machine learning
+    - lecture notes
 ---
 
 # PGM Preliminaries

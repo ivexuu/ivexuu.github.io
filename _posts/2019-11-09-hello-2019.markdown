@@ -1,0 +1,21 @@
+---
+layout:     post
+title:      "Hello 2019"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2019-11-09 18:00:00
+author:     "Hux"
+header-img: "img/about-bg-walle.jpg"
+catalog: true
+tags:
+    - life
+---
+
+> “Yeah It's on. ”
+
+Ive Xu 的 Blog 就这么开通了。
+
+2019 年，Ive Xu 总算有个地方可以好好写点东西了。
+
+我认为学习是从一个输入到输出的过程，武功再高要是都藏肚子里，也不过只能放个好屁。因此，我希望能够通过此博客与大家共同学习。写博客是一件艰苦的事情，需要花费很大精力和耐心，愿我能守住初心，一直坚持下去。
+
+
