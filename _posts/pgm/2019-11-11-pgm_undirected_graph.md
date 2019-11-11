@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Probabilistic Graphical Model"
-subtitle:   "2-Undirected Graph (in progress)"
+subtitle:   "3-Undirected Graph (in progress)"
 date:       2019-11-11 14:43:013
 author:     "Ive Xu"
 header-img: "img/home-bg-art.jpg"
