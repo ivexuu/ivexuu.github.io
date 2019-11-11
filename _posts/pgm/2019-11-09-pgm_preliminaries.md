@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Probabilistic Graphical Model"
-subtitle:   " PGM Preliminaries"
+subtitle:   "1-PGM Preliminaries(in progress)"
 date:       2019-11-09 23:13:013
 author:     "Ive Xu"
 header-img: "img/home-bg-art.jpg"
