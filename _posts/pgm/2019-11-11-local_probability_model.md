@@ -74,7 +74,7 @@ Motivated example, The bank data center will run down if **any one** of the comp
 
 * We get the *logistic CPDs* that is $P(Y^1 \vert X_1, ..., X_k) = sigmoid(w_0 + \sum_i^kw_iX_i)$
 
-* *log odds* (log CPD ratio) $O(X) = {P(y^1 \vert X_1, ..., X_k) \over P(y^0 \vert X_1, ..., X_k)} = {{e^Z \over 1+e^Z} \over {1 \over 1+e^Z}} = e^Z$
+* *log odds* (log CPD ratio) $O(X) = {P(y^1 \vert X_1, ..., X_k) \over P(y^0 \vert X_1, ..., X_k)} = {{e^Z \over{1+e^Z}} \over {1 \over{1+e^Z}}} = e^Z$
 
 * If we to make decision then if $e^Z > 1 \Rightarrow Y=1,\ otherwise\ Y=0$
 
